@@ -31,16 +31,6 @@ npm run dev
 - TypeScript
 - Vite
 
-## Credits
-
-- Images courtesy of [The Art Institute of Chicago](https://www.artic.edu/open-access/public-api)
-
-## Misc
-
-Follow Edoardo: [Instagram](https://www.instagram.com/edo.tsx/), [GitHub](https://github.com/edoardolunardi), [LinkedIn](https://www.linkedin.com/in/edoardolunardi/), [X](https://x.com/edo_lunardi)
-
-Follow Codrops: [X](http://www.x.com/codrops), [Facebook](https://www.facebook.com/codrops), [Instagram](https://www.instagram.com/codropsss/), [LinkedIn](https://www.linkedin.com/company/codrops/), [GitHub](https://github.com/codrops)
-
 ## License
 
 [MIT](LICENSE)
