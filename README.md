@@ -1,13 +1,5 @@
 # Yokesh Canvas
 
-_An infinite 3D canvas built with React Three Fiber for exploring and displaying media in a seamless, immersive space._
-
-![Image Title](https://tympanus.net/codrops/wp-content/uploads/2025/12/edoardo-lunardi-infinite-canvas-featured-image.jpg)
-
-[Article on Codrops](https://tympanus.net/codrops/?p=106679)
-
-[Demo](https://tympanus.net/Tutorials/InfiniteCanvas/)
-
 ## Features
 
 - **Infinite 3D space** - Navigate through an endless grid of media items
