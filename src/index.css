@@ -65,6 +65,9 @@
 
 :root {
   --radius: 0rem;
+  --color-loader-bg: #faf7f5;
+  --color-loader-bar-bg: #e8e0db;
+  --color-loader-bar-fill: var(--primary);
   --background: oklch(0.98 0.01 25.23);
   --foreground: oklch(0.23 0.08 24.25);
   --card: oklch(0.95 0.02 25.25);
@@ -111,6 +114,8 @@
 
 .dark {
   --background: oklch(0.17 0.01 31.25);
+  --color-loader-bg: #2b221e;
+  --color-loader-bar-bg: #4a3830;
   --foreground: oklch(0.95 0.01 25.23);
   --card: oklch(0.22 0.01 34.34);
   --card-foreground: oklch(0.95 0.01 25.23);
